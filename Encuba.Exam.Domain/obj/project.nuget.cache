@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ase/0NZEmt+nKe3wwalnrDXnSmJThsRhWb/+9N6ufwV5qw/Nbqj3lIUa0wTsXuE1E4FyQJrXOEkmFtwLY5jb+w==",
+  "success": true,
+  "projectFilePath": "D:\\Encuba\\Encuba.Exam\\Encuba.Exam.Domain\\Encuba.Exam.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}

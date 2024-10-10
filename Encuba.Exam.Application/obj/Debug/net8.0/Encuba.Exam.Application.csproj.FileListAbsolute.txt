@@ -1,0 +1,15 @@
+D:\Encuba\Encuba.Exam\Encuba.Exam.Application\bin\Debug\net8.0\Encuba.Exam.Application.deps.json
+D:\Encuba\Encuba.Exam\Encuba.Exam.Application\bin\Debug\net8.0\Encuba.Exam.Application.dll
+D:\Encuba\Encuba.Exam\Encuba.Exam.Application\bin\Debug\net8.0\Encuba.Exam.Application.pdb
+D:\Encuba\Encuba.Exam\Encuba.Exam.Application\bin\Debug\net8.0\Encuba.Exam.Domain.dll
+D:\Encuba\Encuba.Exam\Encuba.Exam.Application\bin\Debug\net8.0\Encuba.Exam.Domain.pdb
+D:\Encuba\Encuba.Exam\Encuba.Exam.Application\obj\Debug\net8.0\Encuba.Exam.Application.csproj.AssemblyReference.cache
+D:\Encuba\Encuba.Exam\Encuba.Exam.Application\obj\Debug\net8.0\Encuba.Exam.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Encuba\Encuba.Exam\Encuba.Exam.Application\obj\Debug\net8.0\Encuba.Exam.Application.AssemblyInfoInputs.cache
+D:\Encuba\Encuba.Exam\Encuba.Exam.Application\obj\Debug\net8.0\Encuba.Exam.Application.AssemblyInfo.cs
+D:\Encuba\Encuba.Exam\Encuba.Exam.Application\obj\Debug\net8.0\Encuba.Exam.Application.csproj.CoreCompileInputs.cache
+D:\Encuba\Encuba.Exam\Encuba.Exam.Application\obj\Debug\net8.0\Encuba.E.BD75C40F.Up2Date
+D:\Encuba\Encuba.Exam\Encuba.Exam.Application\obj\Debug\net8.0\Encuba.Exam.Application.dll
+D:\Encuba\Encuba.Exam\Encuba.Exam.Application\obj\Debug\net8.0\refint\Encuba.Exam.Application.dll
+D:\Encuba\Encuba.Exam\Encuba.Exam.Application\obj\Debug\net8.0\Encuba.Exam.Application.pdb
+D:\Encuba\Encuba.Exam\Encuba.Exam.Application\obj\Debug\net8.0\ref\Encuba.Exam.Application.dll

@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Encuba.Exam.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Encuba.Exam.Api.Controllers.AuthJwtController.CreateToken(Encuba.Exam.Api.Dtos.AuthJwtRequests.CreateJwtRequest)">
+            <summary>
+            Generates JWT from accessToken
+            </summary>
+            <remarks>
+            Sample request:
+            
+                POST /users/auth/jwt
+                {
+                    "AccessToken": "accesstoken",
+                }
+            </remarks>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Encuba.Exam.Api.Controllers.AuthUserController.LoginMemberUser(Encuba.Exam.Api.Dtos.AuthUserRequests.LoginUserRequest,System.String,System.String)">
+            <summary>
+            Authenticates a member user
+            </summary>
+            <remarks>
+            Sample request:
+            
+                POST /users/auth/login
+                {
+                    "username": "email@email.com | identificationNumber",
+                    "password": "password"
+                }
+            </remarks>
+            <param name="request"></param>
+            <param name="ipHeader"></param>
+            <param name="userAgent"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Encuba.Exam.Api.Controllers.AuthUserController.RefreshMemberUserToken(Encuba.Exam.Api.Dtos.AuthUserRequests.RefreshTokenRequest)">
+            <summary>
+            Generates a new refresh token if the passed is expired, if not returns the same public access token
+            </summary>
+            <remarks>
+            Sample request:
+            
+                POST /users/auth/refresh-token
+                {
+                    "refreshToken": "XXX"
+                }
+            </remarks>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Encuba.Exam.Api.Controllers.UserController.CreateManagerUser(Encuba.Exam.Api.Dtos.UserRequests.CreateUserRequest)">
+            <summary>
+            Create a new manager, linking it with programs and profile
+            </summary>
+            <remarks>
+            Sample request:
+            
+                POST /user
+                {
+                    "username": "test",
+                    "UserType": "test@test.com"
+                    "FirstName": "test@test.com"
+                    "SecondName": "test@test.com"
+                    "FirstLastName": "test@test.com"
+                    "SecondLastName": "test@test.com"
+                    "Password": "test@test.com"
+                    "Email": "test@test.com"
+                    "AcceptedTermsAndCondition": "test@test.com"
+                }
+            </remarks>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

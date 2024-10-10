@@ -1,0 +1,15 @@
+D:\Encuba\Encuba.Exam\Encuba.Exam.Infrastructure\bin\Debug\net8.0\Encuba.Exam.Infrastructure.deps.json
+D:\Encuba\Encuba.Exam\Encuba.Exam.Infrastructure\bin\Debug\net8.0\Encuba.Exam.Infrastructure.dll
+D:\Encuba\Encuba.Exam\Encuba.Exam.Infrastructure\bin\Debug\net8.0\Encuba.Exam.Infrastructure.pdb
+D:\Encuba\Encuba.Exam\Encuba.Exam.Infrastructure\bin\Debug\net8.0\Encuba.Exam.Domain.dll
+D:\Encuba\Encuba.Exam\Encuba.Exam.Infrastructure\bin\Debug\net8.0\Encuba.Exam.Domain.pdb
+D:\Encuba\Encuba.Exam\Encuba.Exam.Infrastructure\obj\Debug\net8.0\Encuba.Exam.Infrastructure.csproj.AssemblyReference.cache
+D:\Encuba\Encuba.Exam\Encuba.Exam.Infrastructure\obj\Debug\net8.0\Encuba.Exam.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Encuba\Encuba.Exam\Encuba.Exam.Infrastructure\obj\Debug\net8.0\Encuba.Exam.Infrastructure.AssemblyInfoInputs.cache
+D:\Encuba\Encuba.Exam\Encuba.Exam.Infrastructure\obj\Debug\net8.0\Encuba.Exam.Infrastructure.AssemblyInfo.cs
+D:\Encuba\Encuba.Exam\Encuba.Exam.Infrastructure\obj\Debug\net8.0\Encuba.Exam.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Encuba\Encuba.Exam\Encuba.Exam.Infrastructure\obj\Debug\net8.0\Encuba.E.87A14EB3.Up2Date
+D:\Encuba\Encuba.Exam\Encuba.Exam.Infrastructure\obj\Debug\net8.0\Encuba.Exam.Infrastructure.dll
+D:\Encuba\Encuba.Exam\Encuba.Exam.Infrastructure\obj\Debug\net8.0\refint\Encuba.Exam.Infrastructure.dll
+D:\Encuba\Encuba.Exam\Encuba.Exam.Infrastructure\obj\Debug\net8.0\Encuba.Exam.Infrastructure.pdb
+D:\Encuba\Encuba.Exam\Encuba.Exam.Infrastructure\obj\Debug\net8.0\ref\Encuba.Exam.Infrastructure.dll

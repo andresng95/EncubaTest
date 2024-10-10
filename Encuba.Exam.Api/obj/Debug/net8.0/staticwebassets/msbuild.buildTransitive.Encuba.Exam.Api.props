@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Encuba.Exam.Api.props" />
+</Project>
